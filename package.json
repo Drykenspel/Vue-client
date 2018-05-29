@@ -15,6 +15,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@drykenspel/node-server": "github:Drykenspel/node-server",
     "firebase": "^4.13.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
